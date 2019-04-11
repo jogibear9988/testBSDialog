@@ -1,0 +1,25 @@
+{
+  "name": "testbsdialog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap4-dialog": "^4.1.0",
+    "local-web-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogibear9988/testBSDialog.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jogibear9988/testBSDialog/issues"
+  },
+  "homepage": "https://github.com/jogibear9988/testBSDialog#readme",
+  "description": ""
+}
